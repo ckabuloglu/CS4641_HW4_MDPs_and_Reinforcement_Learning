@@ -2,7 +2,7 @@
 ## Markov Decision Processes and Reinforcement Learning
 Can Kabuloglu - Spring 17
 
-This project uses 2 libraries:
+### This project uses 2 libraries:
     - BURLAP
     - RL_sim
 
